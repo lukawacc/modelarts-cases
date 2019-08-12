@@ -1,7 +1,7 @@
 Table of contents
 =================
 
-* [gh-md-toc](#gh-md-toc)
+* [正文](#正文)
 * [Table of contents](#2.下文)
 * [Installation](#installation)
 * [Usage](#usage)
