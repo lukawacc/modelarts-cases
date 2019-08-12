@@ -1,8 +1,8 @@
-Table of contents
+Table of Contents
 =================
 
 
-* [gh-md-toc](#gh-md-toc)
+* [正文](#正文)
 * [Table of contents](#table-of-contents)
 * [Installation](#installation)
 * [Usage](#usage)
