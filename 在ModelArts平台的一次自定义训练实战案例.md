@@ -2,7 +2,7 @@ Table of contents
 =================
 
 * [正文](#正文)
-* [cool dear](#1.cool-dw)
+* [cool dear](#cool-dw)
 * [Installation](#installation)
 * [Usage](#usage)
   * [STDIN](#stdin)
@@ -16,7 +16,7 @@ Table of contents
 * [Dependency](#dependency)
     
 ## 正文
-### 1.cool dw
+### cool dw
 **Markdown**是一种轻量级**标记语言**，它以纯文本形式(*易读、易写、易更改*)编写文档，并最终以HTML格式发布。    
 **Markdown**也可以理解为将以MARKDOWN语法编写的语言转换成HTML内容的工具。    
 
