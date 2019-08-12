@@ -2,7 +2,7 @@ Table of contents
 =================
 
 * [正文](#正文)
-* [cool dear](# cool-dw)
+* [cool dear](### cool-dw)
 * [Installation](#installation)
 * [Usage](#usage)
   * [STDIN](#stdin)
