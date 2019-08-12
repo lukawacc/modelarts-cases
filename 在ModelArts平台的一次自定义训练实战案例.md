@@ -1,21 +1,4 @@
-Table of Contents
-=================
-
-* [正文](#正文)
-* [2.下文](#2. 下文)
-* [Installation](#installation)
-* [Usage](#usage)
-  * [STDIN](#stdin)
-  * [Local files](#local-files)
-  * [Remote files](#remote-files)
-  * [Multiple files](#multiple-files)
-  * [Combo](#combo)
-  * [Auto insert and update TOC](#auto-insert-and-update-toc)
-  * [GitHub token](#github-token)
-* [Tests](#tests)
-* [Dependency](#dependency)
-
-
+[TOC]
     
 ## 正文
 ### 2. 下文
