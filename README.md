@@ -39,7 +39,7 @@
 
 - 打开华为云主页：https://www.huaweicloud.com/
 - 如下图所示，转到 产品>基础服务>存储>对象存储服务 OBS> 管理控制台
-![Aaron Swartz](https://modelarts-cnnorth1-modelhub-meta.obs.cn-north-1.myhuaweicloud.com/picture/01380bf9-b366-4661-8b60-ad5bb85666ba.jpg)
+![Aaron Swartz](https://modelarts-cnnorth1-modelhub-meta.obs.cn-north-1.myhuaweicloud.com/picture/05d4ae2d-739f-441d-a34f-72c60606c61f.gif)
 
 #### 创建OBS Bucket
 
