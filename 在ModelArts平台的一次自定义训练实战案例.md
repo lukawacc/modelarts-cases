@@ -2,8 +2,8 @@ Table of Contents
 =================
 
 
-- [正文](#正文)
-* [Table of contents](#table-of-contents)
+* [正文](#正文)
+* [1. Markdown*是什么*？](#1. Markdown*是什么*？)
 * [Installation](#installation)
 * [Usage](#usage)
   * [STDIN](#stdin)
