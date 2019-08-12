@@ -2,7 +2,7 @@ Table of contents
 =================
 
 * [正文](#正文)
-* [Table of contents](#2.下文)
+* [2. 下文](#2.-下文)
 * [Installation](#installation)
 * [Usage](#usage)
   * [STDIN](#stdin)
