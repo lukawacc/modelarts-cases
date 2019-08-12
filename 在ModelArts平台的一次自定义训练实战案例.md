@@ -2,7 +2,7 @@ Table of Contents
 =================
 
 
-* [正文](#正文)
+- [正文](#正文)
 * [Table of contents](#table-of-contents)
 * [Installation](#installation)
 * [Usage](#usage)
